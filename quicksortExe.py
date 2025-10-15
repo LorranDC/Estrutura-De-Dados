@@ -46,6 +46,6 @@ def partition(arr, left, right):
 
 
 
-nums = [2, 0, 3, 1, 1, 0]
-quicksort(nums)
-print(nums)
+# nums = [2, 0, 3, 1, 1, 0]
+# quicksort(nums)
+# print(nums)
